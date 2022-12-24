@@ -6,6 +6,6 @@ In the task 1 I have to create a single page website, that have the section like
 
 Web Technologies Used:
 
-HTML
-CSS &
-JavaScript
+     -> HTML
+     -> CSS &
+     -> JavaScript
